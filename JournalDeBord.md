@@ -1,7 +1,5 @@
 # Journal de Bord
 
----
-
 ### 26/03
 
 - Mathis : Création du repository, Gestion du développement sur github
