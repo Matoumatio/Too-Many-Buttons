@@ -1,7 +1,5 @@
 # Idées de Sites
 
----
-
 | Idée | Description | Contribution | Status |
 | ---- | ----------- | ------------ | ------ |
 | OnlyFans | Seulement des ventilateurs sexy | Amine | Idée |
