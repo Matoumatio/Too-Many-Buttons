@@ -14,7 +14,7 @@
 | TonTube | C'est juste plusieurs tubes qui tombent | Amine / Lylian / Cecilia / Mathis | Idée |
 | Bonduelle | Théobabac qui fait "achète." | Amine | Idée |
 | La Quête de Feldup | "HENRY TRAN EST ALLE A SINGAPOUR LES GARS" | Lylian / Mathis | Idée |
-| Inoxtag Fan | Julie, 12 ans, fan d'Inoxtag a fait un blog a son nom | Lylian / Amine | Idée |
+| Inoxtag Fan | Julie, 12 ans, fan d'Inoxtag a fait un blog en son nom | Lylian / Amine | Idée |
 | Truc et astuce ultra sympa de Didier Benoît, le DJ de ta région occitanie ultra sympa qui va t'apprendre comment utiliser des trucs ultra sympa dans les trucs et astuce ultra sympa ... | Tout est dans le nom | Mathis / Amine / Lylian | Idée |
 | EgoMe | Des sites avec nos gueules | Lylian / Amine | Idée |
 | Sans fight but he's naked if zero hit | Tout est dans le nom | Lylian / Mathis | Idée |
