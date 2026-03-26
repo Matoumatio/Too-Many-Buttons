@@ -11,7 +11,7 @@
 | Être une feuille simulator | Vidéo d'une feuille qui tombe et qui regarde le ciel | Lylian | Idée |
 | Google Infini | Un Google qui s'autoréférence | Amine | Idée |
 | ParcourInf | Pour downgrade (gambling ou discrimination) | Lylian | Idée |
-| TonTube | C'est juste plusieurs pipes qui tomben | Amine / Lylian / Cecilia / Mathis | Idée |
+| TonTube | C'est juste plusieurs tubes qui tombent | Amine / Lylian / Cecilia / Mathis | Idée |
 | Bonduelle | Théobabac qui fait "achète." | Amine | Idée |
 | La Quête de Feldup | "HENRY TRAN EST ALLE A SINGAPOUR LES GARS" | Lylian / Mathis | Idée |
 | Inoxtag Fan | Julie, 12 ans, fan d'Inoxtag a fait un blog a son nom | Lylian / Amine | Idée |
