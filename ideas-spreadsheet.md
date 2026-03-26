@@ -20,3 +20,4 @@
 | Sans fight but he's naked if zero hit | Tout est dans le nom | Lylian / Mathis | Idée |
 | Linkedin ou Interpole ? | C'est que des comptes Linkedin de gens d'Interpole | Lylian / Amine / Mathis | Idée |
 | EpicDoxx | Jouez a EpicGame en ligne gratuitement :D (formulaire ultra complet mais litéralement te demande ton livret de famille ou autre) | Lylian / Amine / Mathis | Idée |
+| ChienGPT | Idée de théobabac (OUI ENCORE LUI BAH EH) | Mathis | Idée |
