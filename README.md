@@ -15,6 +15,13 @@
 - Objectif Général : Développer un jeux vidéo et le placer sur un serveur local ou sur internet (probablement Neocities)
 - Public Cible / Utilisateurs : Amateurs de jeux vidéos et explorateurs du web
 
+### Fonctionnalités Attendues
+
+- Accéder au site
+- Appuyer sur un bouton
+- Appuyer sur une pub
+- Naviguer entre plusieurs site à l'aide d'hyperliens
+
 ---
 
 ### Répartition des Tâches
