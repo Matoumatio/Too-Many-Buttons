@@ -10,7 +10,7 @@
 | Faux site NVIDIA | Un site de stat qui donne que des stats affreuses | Amin / Lylian | Idée |
 | Être une feuille simulator | Vidéo d'une feuille qui tombe et qui regarde le ciel | Lylian | Idée |
 | Google Infini | Un Google qui s'autoréférence | Amin | Idée |
-| ParcourInf | Pour downgrade (gambling ou discrimination) | Lylian | Idée |
+| ParcourInf X | Pour downgrade (gambling ou discrimination) | Lylian | Idée |
 | TonTube | C'est juste plusieurs tubes qui tombent | Amin / Lylian / Evan / Mathis | Idée |
 | Bonduelle | Théobabac qui fait "achète." | Amin | Idée |
 | La Quête de Feldup | "HENRY TRAN EST ALLE A SINGAPOUR LES GARS" | Lylian / Mathis | Idée |
