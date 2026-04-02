@@ -29,7 +29,7 @@
 
 - Amin : Chef de projet
  - Lylian : Dev back-end (flask, Python)
- - Evan / Cecilia : Graphisme, Design 
+ - Evan : Graphisme, Design 
  - Mathis : Dev web, Son
  - Shirley : Support Design
 
