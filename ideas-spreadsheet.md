@@ -3,10 +3,10 @@
 | Idée | Description | Contribution | Status |
 | ---- | ----------- | ------------ | ------ |
 | OnlyFans | Seulement des ventilateurs sexy | Amine | Idée |
-| Chaise | Un site qui vends seulement une chaise unique | Mathis | Idée |
+| Chaise X | Un site qui vends seulement une chaise unique | Mathis | Idée |
 | Mémé fait du tricot | Mamie a pété un cable sur son blog de tricot | Mathis | Idée |
 | Deviens Iron Man | Conseils affreux sur comment devenir Iron Man | Amine / Lylian | Idée |
-| DanMaZon | Amazon qui vends que des trucs de merdes | Amine / Lylian | Idée |
+| DanMaZon X | Amazon qui vends que des trucs de merdes | Amine / Lylian | Idée |
 | Faux site NVIDIA | Un site de stat qui donne que des stats affreuses | Amine / Lylian | Idée |
 | Être une feuille simulator | Vidéo d'une feuille qui tombe et qui regarde le ciel | Lylian | Idée |
 | Google Infini | Un Google qui s'autoréférence | Amine | Idée |
@@ -19,5 +19,5 @@
 | EgoMe | Des sites avec nos gueules | Lylian / Amine | Idée |
 | Sans fight but he's naked if zero hit | Tout est dans le nom | Lylian / Mathis | Idée |
 | Linkedin ou Interpole ? | C'est que des comptes Linkedin de gens d'Interpole | Lylian / Amine / Mathis | Idée |
-| EpicDoxx | Jouez a EpicGame en ligne gratuitement :D (formulaire ultra complet mais litéralement te demande ton livret de famille ou autre) | Lylian / Amine / Mathis | Idée |
+| EpicDoxx X | Jouez a EpicGame en ligne gratuitement :D (formulaire ultra complet mais litéralement te demande ton livret de famille ou autre) | Lylian / Amine / Mathis | Idée |
 | ChienGPT | Idée de théobabac (OUI ENCORE LUI BAH EH) | Mathis | Idée |
