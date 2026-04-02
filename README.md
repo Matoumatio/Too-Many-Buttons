@@ -36,5 +36,5 @@
 ### Architecture technique
 
 - Langage : HTML, CSS, JAVASCRIPT, PYTHON, SQL
-- Logiciel utilisé : Flask, Github, VScode, SQLite, Krita, Figma
+- Logiciel utilisé : Flask, Github, VScode, SQLite, Krita (logiciel de graphisme numérique), Figma
 - Paradigme : Impératif
