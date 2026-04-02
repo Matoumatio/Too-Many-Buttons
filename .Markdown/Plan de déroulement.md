@@ -1,6 +1,4 @@
-### Plan de déroulement
-
----
+# Plan de déroulement
 
 1. Création de la page web principal ou se trouve le bouton principal localement (Evan, Mathis)
 2. Chercheur de meme et images (Shirley)
