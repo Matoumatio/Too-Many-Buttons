@@ -32,7 +32,7 @@
 ### Membres et Roles
 
 - Amin : Chef de projet
- - Lylian : Dev 
+ - Lylian : Dev backend (flask, Python)
  - Evan / Cecilia : Graphisme, Design 
  - Mathis : Dev web, Son
  - Shirley : Support Design
