@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Too Many Buttons - Article</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #eaeaea;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 1.2fr 2fr 1fr;
+            gap: 40px;
+            padding: 60px;
+            height: 100vh;
+            box-sizing: border-box;
+        }
+
+        /* Image chaise */
+        .image {
+            background-color: #cfcfcf;
+            width: 100%;
+            height: 400px;
+        }
+
+        /* Texte centre */
+        .content {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        .content p {
+            line-height: 1.5;
+            font-size: 18px;
+            margin: 0;
+        }
+
+        .separator {
+            height: 1px;
+            background-color: #555;
+            width: 100%;
+        }
+
+        /* Colonne droite */
+        .side {
+            border-left: 2px solid #999;
+            padding-left: 30px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .price {
+            text-align: center;
+        }
+
+        .price h1 {
+            font-size: 48px;
+            margin: 0;
+        }
+
+        .price .line {
+            margin-top: 10px;
+            height: 1px;
+            background-color: #555;
+        }
+
+        .button {
+            height: 60px;
+            background-color: #cfcfcf;
+            border-radius: 15px;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <!-- Image -->
+        <div class="image"></div>
+
+        <!-- Texte -->
+        <div class="content">
+            <p>
+                Moral depths fearful eternal-return passion. Salvation merciful zarathustra hope battle intentions deceptions abstract.
+            </p>
+
+            <p>
+                Grandeur zarathustra christian grandeur passion of ultimate ascetic convictions truth ultimate of revaluation. Chaos decieve philosophy joy society moral. War horror revaluation against joy decieve virtues marvelous transvaluation will merciful selfish sexuality.
+            </p>
+
+            <div class="separator"></div>
+
+            <p>
+                Love transvaluation snare value ultimate prejudice truth ultimate decrepit. Abstract mountains ultimate insofar prejudice contradict. Christian value revaluation ubermensch gains truth. Grandeur ascetic chaos sea law chaos snare chaos salvation hope justice depths burying suicide.
+            </p>
+
+            <p>
+                Society oneself grandeur pinnacle oneself burying zarathustra passion will intentions christian spirit grandeur abstract. Intentions against decrepit evil free.
+            </p>
+        </div>
+
+        <!-- Côté droit -->
+        <div class="side">
+            <div class="price">
+                <h1>X.XX€</h1>
+                <div class="line"></div>
+            </div>
+
+            <div class="button"></div>
+        </div>
+
+    </div>
+
+</body>
+</html>
