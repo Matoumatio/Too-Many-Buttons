@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Too Many Buttons - Accueil (Croquis)</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+        header, footer {
+            background-color: #ccc;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        main {
+            flex: 1;
+            display: grid;
+            grid-template-columns: 1fr 2fr 1fr;
+            grid-template-rows: auto 1fr;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        /* Pub haut */
+        .top-center {
+            grid-column: 2;
+            height: 100px;
+            background-color: #ccc;
+        }
+
+        /* Pubs gauche */
+        .left-column {
+            grid-column: 1;
+            grid-row: 1 / span 2;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        /* Pubs droite */
+        .right-column {
+            grid-column: 3;
+            grid-row: 1 / span 2;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        /* Pubs (base) */
+        .button {
+            background-color: #bbb;
+            flex: 1;
+        }
+
+        /* Gros bouton central */
+        .center {
+            grid-column: 2;
+            grid-row: 2;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .big-button {
+            width: 200px;
+            height: 200px;
+            background-color: #aaa;
+            border-radius: 50%;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Too Many Buttons - Croquis 1</h1>
+    </header>
+
+    <main>
+
+        <div class="top-center"></div>
+
+        <div class="left-column">
+            <div class="button"></div>
+            <div class="button"></div>
+        </div>
+
+        <div class="right-column">
+            <div class="button"></div>
+            <div class="button"></div>
+            <div class="button"></div>
+        </div>
+
+        <div class="center">
+            <div class="big-button"></div>
+        </div>
+
+    </main>
+
+    <footer>
+        Faut tout modifier mais au moins y'a un croquis quoi - Mathis
+    </footer>
+
+</body>
+</html>
